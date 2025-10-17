@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-gpu
+numpy
+pandas
+scikit-learn
+torch
+transformers
+pypdf
+fastapi
